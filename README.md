@@ -2,7 +2,7 @@
 
 南瓜虛擬科技股份有限公司，2026/11/12–11/13 墾丁夏都兩天一夜互動邀請網站。
 
-線上網站：https://pumpkin-kenting-holiday-2026.pumpapa.chatgpt.site
+公開網站（免登入）：https://terry12260201.github.io/pumpkin-kenting-holiday-2026/
 
 ## 體驗
 
@@ -30,7 +30,7 @@
 ## 編輯與部署
 
 這是無後端的靜態網站，可部署至支援 HTML/CSS/JavaScript 的主機。
-此儲存庫保存目前網站原始碼，尚未設定推送後自動更新 Sites。
+GitHub Pages 從 main 分支根目錄部署；推送至 main 後會自動更新公開網站。
 使用者互動進度僅保存在訪客自己的瀏覽器。
 
 ## 行程狀態
